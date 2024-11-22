@@ -1,6 +1,10 @@
 # programmable-teaching
 scripting teaching
 
+### Assignments on Canvas
+
+Script to find ungraded assignments: <https://github.com/KTH/devops-course/blob/2024/tools/missing_grade.py> (2024 edition in branch 2024)
+
 ### Grading
 
 ```
